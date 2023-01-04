@@ -103,11 +103,11 @@ Least count = 0.1 mm Hg.
 
 ## How It Works
 Take the readings of Assmann Psychrometer and Aneroid Barometer.
-<div>
+<div align="center">
    <img src="images/arrow.jpg"  class="theory_clip_image">
 </div>
 Dry Bulb temperature, Wet Bulb temperature and barometric pressure from four different places.
-<div>
+<div align="center">
    <img src="images/arrow.jpg"  class="theory_clip_image">
 </div>
 Then calculate:
@@ -124,7 +124,6 @@ $$ \ 7 \ . \ Dew \ Point \ Temperature $$
   $$ \ 8 \ . \ Enthalpy \:   H=  U  +  P  *  V $$
 
 ## Demo
-[Determination of Phsycrometric Properties Lab](https://www.youtube.com/embed/VQTzpdqK9Vs)
 
 <!-- blank line -->
 <figure class="video_container">
