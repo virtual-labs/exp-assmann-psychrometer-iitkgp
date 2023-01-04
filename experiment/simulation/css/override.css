@@ -1,0 +1,270 @@
+.clearfix {
+ clear:both;
+}
+.last {
+ float:right !important;
+
+}
+span.term {
+    font-family: monospace;
+    font-style: normal;
+    font-weight: bold;
+    color: #556B2F;
+}
+p.heading-header{
+    text-align:left; 
+    font-size:18px; 
+    font-weight:bold;
+    padding-bottom: 10px;
+}
+p.heading-content{
+    text-align:justify; 
+    padding-bottom: 10px;
+}
+p.image-content{
+    text-align: center;
+}
+h2.paraHeader {
+	font-size:17px;
+	margin-left:0px !important;
+	margin-top:30px;
+	clear:both;
+}
+h2.paraHeader:first-child {
+	margin-top:0px !important;
+}
+section div.heading {
+	border-bottom:2px solid #2a2a2a;
+	padding-bottom:5px !important;
+	margin-right:40px !important;
+	margin-bottom:15px !important;
+}
+p.para {
+ display:block;
+ margin-bottom:10px;
+ text-align:justify;
+ clear:both;
+}
+.pol {
+ text-align:left !important;
+}
+.pol li {
+ margin-bottom:10px;
+}
+.pol span {
+ font-weight:bold;
+}
+.iframeDiv {
+	margin:0 auto;
+	width:560px;
+}
+
+.expImg{
+    margin:0 auto !important;
+	margin-bottom:5px;
+	width:auto !important;
+    height:auto !important;
+	padding-left: 0px !important;
+	margin-right: 15px !important;
+}
+
+.expImgCenter {
+ float:left !important;
+}
+
+.centerDiv {
+	margin:0 auto;
+}
+
+.content .expEmbd {
+ margin:0 auto;
+ height:750px !important;
+ width:900px !important;
+}
+
+.imageDiv {
+ width:100%;
+ text-align:center;
+ padding:15px 0;
+}
+
+.theory_clip_image {
+ margin:0 auto !important;
+ width:330px !important;
+ height:200px !important;
+}
+
+.theory_eq_image {
+ width:auto !important;
+ height:auto !important;
+}
+
+.theory_eq_image2 {
+ margin:0 auto !important;
+ width:800px !important;
+ height:500px !important;
+}
+#myCanvas {
+ width:944px;
+ background-color:#CCCCFF;
+ padding:20px 0;
+}
+.apDiv {
+ position:relative;
+ float:left;
+ width:172px;
+ height:612px;
+ background-image:url(../images/ap.jpg);
+ background-repeat:no-repeat;
+
+}
+.mcLeft {
+ float:left;
+ width:475px;
+}
+.ap_img {
+ z-index:-9999;
+ width:100% !important;
+ height:100% !important;
+ padding-left:0 !important;
+ padding-bottom:0 !important;
+}
+.fbDiv {
+ position: relative;
+ float:left;
+ width:230px;
+ height:612px;
+ margin-left:50px;
+ background-image:url(../images/fb.jpg);
+ background-repeat:no-repeat;
+ background-position:bottom;
+}
+
+.fb_img {
+ margin-top:107px;
+ padding-left:0 !important;
+ padding-bottom:0 !important;
+ width:100% !important;
+ height:505px !important;
+}
+.mcRight {
+ float:right;
+ width:455px;
+ height:612px;
+}
+.blockHeader {
+ font-size:15px;
+ line-height:1.2em;
+ border-bottom:1px solid #000;
+}
+.commTable {
+ margin-top:20px;
+ margin-left:0 !important;
+ width:100%;
+ border:1px solid #000;
+}
+.commTable th, .commTable td, .commTable tr {
+ border:none !important;
+ font-size:13px !Important;
+ padding:9px !important;
+ color:#000 !important;
+}
+.commTable th {
+ text-align:left;
+}
+.resultTable input[type=text] {
+ background-color:#eee;
+}
+.apbar1 {
+ position: absolute;
+ bottom: 160px;
+ left: 44px;
+ width: 5px;
+ height: 0px;
+ background-color: #666;
+}
+.scaleDiv {
+ float: left;
+ width: 20px;
+ height: 313px;
+ margin-top: 137px;
+ margin-left: 22px;
+}
+.singNU {
+ clear:both;
+}
+.unitNumber {
+ float:left;
+ width:9px;
+ height:12.5px;
+ padding-top:5px;
+ font-size:7px;
+ font-weight:bold;
+ padding-right:1px;
+}
+.singUnit {
+ float:right;
+ width:9px;
+ height:17.5px;
+ border-left:1px solid #000;
+ border-bottom:1px solid #000;
+
+}
+.scaleDivR {
+ margin-left:0 !important;
+ margin-right:18px;
+}
+
+.unitNumberR {
+ float:right;
+ width:9px;
+ height:12.5px;
+ padding-top:5px;
+ font-size:7px;
+ font-weight:bold;
+ padding-right:1px;
+}
+.singUnitR {
+ float:left;
+ width:9px;
+ height:17.5px;
+ border-right:1px solid #000;
+ border-bottom:1px solid #000;
+}
+.apbar2 {
+ position: absolute;
+ bottom: 160px;
+ right: 44px;
+ width: 5px;
+ height: 0px;
+ background-color: #666;
+}
+.whiteShade {
+ position:absolute;
+ top: 205px;
+ left: 76px;
+ width: 63px;
+ height: 15px;
+ background-color:#fff;
+ z-index:999;
+}
+.apbar3  {
+ position: absolute;
+ bottom: 339px;
+ left: 86px;
+ width: 43px;
+ height: 10px;
+ background-color: #0099ff;
+ z-index:1;
+}
+.instructions {
+ width:944px;
+ clear:both;
+ background-color:#CCCCFF;
+}
+.instructions ul {
+ font-size:14px;
+ font-weight:normal;
+}
+
+/******************************* Mine Evasee simulator ******************************/
