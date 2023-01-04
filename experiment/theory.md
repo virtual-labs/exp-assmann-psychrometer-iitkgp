@@ -132,24 +132,12 @@ $$ \ 7 \ . \ Dew \ Point \ Temperature $$
 </figure>
 <!-- blank line --> 
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/VQTzpdqK9Vs" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=VQTzpdqK9Vs&ab_channel=mousamanta" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
-<div class="content" id="experiment-article-section-6-content">
-                            <div class="iframeDiv"><iframe width="560" height="315" src="http://www.youtube.com/embed/VQTzpdqK9Vs" frameborder="0" allowfullscreen></iframe> </div>
-                        </div>
 
-<p class="heading-content"> 
-  <object width="900" height="700" data="https://youtu.be/VQTzpdqK9Vs"></object>
-</p>
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
+
+
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
