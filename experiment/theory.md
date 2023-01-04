@@ -22,29 +22,29 @@ This is the temperature recorded by a thermometer whose bulb is covered with a t
 #### **Saturated Vapour Pressure**
 At a particular temperature, Saturated Vapour Pressure (e<sub>1</sub>) is the maximum pressure that can be exerted by the water vapour in a saturated atmosphere or space.The commonly accepted equation for SVP (e<sub>1</sub>) at temperature t°C is:
 
-$$ e_1=0.06105 \exp(\frac{17.27*t}{237.3+t}) in kPa $$ 
+$$ \ e_1=0.06105 \ \exp(\frac{17.27*t}{237.3+t})  \ \ in  \ \ kPa $$ 
 
 #### **Vapour Pressure**
 This is the partial pressure of water vapour present in a certain volume of air (or space) expressed in kP<sub>a</sub>. This is also called Actual Vapour Pressure (AVP). If T<sub>D</sub> and T<sub>W</sub> are known, AVP (e) can be found out approximately from this equation:
 
-$$ e =e_w-0.000644 * P *(T_D-T_B) $$
+$$ \ e = \ e_w \ - \ 0.000644 * \ P *(T_D-T_B) $$
 
 where, e<sub>w</sub> is SVP at the wet bulb temperature in kP<sub>a</sub>. P is the barometric pressure in kP<sub>a</sub>
 
 #### **Relative Humidity (RH)**
 It is the ratio of actual vapour pressure (AVP) to the saturated vapour pressure (SVP) at the given dry bulb temperature, expressed as a percentage, i.e
 
- $$ RH =\frac{e}{e_d} * 100 \% $$
+ $$ \ RH = \ \frac{e}{e_d} * 100 \ \% $$
 
 #### **Specific Humidity (SP)**
 This is the mass of water vapour present in kg per kg of moist air
 
-$$ SP = \frac{0.622 * e}{P-0.378 * e} $$
+$$ \ SP = \ \frac{0.622 * e}{P-0.378 * e} $$
 
 #### **Mixing ratio (M)**
 This is the ratio of mass of water vapour present to the unit of mass of dry air.
 
-$$ M = 0.622 * \frac{e}{P} $$
+$$ \ M = \ 0.622 * \ \frac{e}{P} $$
 
 This is often termed as moisture content in kg of moisture per kg of dry air.
 
@@ -54,7 +54,7 @@ The temperature at which the air attains saturation is known as its dew point. I
 #### **Enthalpy**
 Enthalpy (sometimes called total heat) is defined by the equation:
 
- $$ H= U+P*V $$
+ $$ \ H= \ U \ + \ P \ * \ V $$
 
  where, U = internal energy
  P = pressure (absolute), V = specific volume
@@ -101,13 +101,14 @@ Least count = 0.1 mm Hg.
 1. Assmann Psychrometer
 2. Fortin Barometer
 
+## How It Works
 
 ## Demo
 <div class="iframeDiv">
             <iframe width="560" height="315" src="http://www.youtube.com/embed/VQTzpdqK9Vs" frameborder="0" allowfullscreen></iframe>
           </div>
 
-
+[Determination of Physcrometric Properties Lab](http://www.youtube.com/embed/VQTzpdqK9Vs)
 
 
 
