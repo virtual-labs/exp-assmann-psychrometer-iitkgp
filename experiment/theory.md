@@ -104,11 +104,10 @@ Least count = 0.1 mm Hg.
 ## How It Works
 
 ## Demo
-<div class="iframeDiv">
-            <iframe width="560" height="315" src="http://www.youtube.com/embed/VQTzpdqK9Vs" frameborder="0" allowfullscreen></iframe>
-          </div>
 
-[Determination of Physcrometric Properties Lab](http://www.youtube.com/embed/VQTzpdqK9Vs)
 
+<figure class="video_container">
+  <iframe src="http://www.youtube.com/embed/VQTzpdqK9Vs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
