@@ -102,12 +102,39 @@ Least count = 0.1 mm Hg.
 2. Fortin Barometer
 
 ## How It Works
+Take the readings of Assmann Psychrometer and Aneroid Barometer.
+<div>
+   <img src="images/arrow.jpg"  class="theory_clip_image">
+</div>
+Dry Bulb temperature, Wet Bulb temperature and barometric pressure from four different places.
+<div>
+   <img src="images/arrow.jpg"  class="theory_clip_image">
+</div>
+Then calculate:
+
+$$ \ 1 \ . \ Vapour \ Pressure \ : P_w = P_{ws} - ( t_db - t_wb) \ kPa $$
+$$ \ 2 \ . \ Specific \ Volume  \ : V = (\frac{ 0.287T}{ P-P_w}) $$
+$$ \ 3 \ . \ Mixing Ratio \ : m = (622 *( \frac{ P_w}{ P-P_w} ) ) $$
+$$ \ 4 \ . \ Relative Humidity \: RH =  \frac{e}{e_d} * 100  \\% $$
+$$ \ 5 \ . \ Specific Humidity \: \ SP = \ \frac{0.622 * e}{P-0.378 * e} $$
+$$ \ 6 \ . \ Mixing Ratio \: m =  0.622 *  \frac{ e}{ P} $$
+
+$$ \ 7 \ . \ Dew Point Temperature $$
+
+  $$ \ 8 \ . \ Enthalpy \:   H=  U  +  P  *  V $$
 
 ## Demo
-
 
 <figure class="video_container">
   <iframe src="http://www.youtube.com/embed/VQTzpdqK9Vs" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+<div class="content" id="experiment-article-section-6-content">
+                            <div class="iframeDiv"><iframe width="560" height="315" src="http://www.youtube.com/embed/VQTzpdqK9Vs" frameborder="0" allowfullscreen></iframe> </div>
+                        </div>
+
+<p class="heading-content"> 
+  <object width="900" height="700" data="http://www.youtube.com/embed/VQTzpdqK9Vs"></object>
+                            </p>
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
