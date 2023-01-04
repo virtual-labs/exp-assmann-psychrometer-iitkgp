@@ -114,19 +114,30 @@ Then calculate:
 
 $$ \ 1 \ . \ Vapour \ Pressure \ : P_w = P_{ws} - ( t_db - t_wb) \ kPa $$
 $$ \ 2 \ . \ Specific \ Volume  \ : V = (\frac{ 0.287T}{ P-P_w}) $$
-$$ \ 3 \ . \ Mixing Ratio \ : m = (622 *( \frac{ P_w}{ P-P_w} ) ) $$
-$$ \ 4 \ . \ Relative Humidity \: RH =  \frac{e}{e_d} * 100  \\% $$
-$$ \ 5 \ . \ Specific Humidity \: \ SP = \ \frac{0.622 * e}{P-0.378 * e} $$
-$$ \ 6 \ . \ Mixing Ratio \: m =  0.622 *  \frac{ e}{ P} $$
+$$ \ 3 \ . \ Mixing \ Ratio \ : m = (622 *( \frac{ P_w}{ P-P_w} ) ) $$
+$$ \ 4 \ . \ Relative \ Humidity \: RH =  \frac{e}{e_d} * 100  \\% $$
+$$ \ 5 \ . \ Specific \ Humidity \: \ SP = \ \frac{0.622 * e}{P-0.378 * e} $$
+$$ \ 6 \ . \ Mixing \ Ratio \: m =  0.622 *  \frac{ e}{ P} $$
 
-$$ \ 7 \ . \ Dew Point Temperature $$
+$$ \ 7 \ . \ Dew \ Point \ Temperature $$
 
   $$ \ 8 \ . \ Enthalpy \:   H=  U  +  P  *  V $$
 
 ## Demo
+[Determination of Phsycrometric Properties Lab](https://www.youtube.com/embed/VQTzpdqK9Vs)
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/VQTzpdqK9Vs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line --> 
 
 <figure class="video_container">
-  <iframe src="http://www.youtube.com/embed/VQTzpdqK9Vs" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://youtu.be/VQTzpdqK9Vs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=VQTzpdqK9Vs&ab_channel=mousamanta" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 <div class="content" id="experiment-article-section-6-content">
@@ -134,7 +145,11 @@ $$ \ 7 \ . \ Dew Point Temperature $$
                         </div>
 
 <p class="heading-content"> 
-  <object width="900" height="700" data="http://www.youtube.com/embed/VQTzpdqK9Vs"></object>
-                            </p>
+  <object width="900" height="700" data="https://youtu.be/VQTzpdqK9Vs"></object>
+</p>
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
