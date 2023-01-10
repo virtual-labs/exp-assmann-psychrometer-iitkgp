@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The dry-bulb temperature is an indicator of heat content in the air.",
+      "answers": {
+        "a": "Ture",
+        "b": "False"
+        
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The least count of the Assmann psychrometer is",
+      "answers": {
+        "a": "0.5°C",
+        "b": "0.3°C",
+        "c": "0.2°C",
+        "d": "0.1°C"
+      },
+     
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

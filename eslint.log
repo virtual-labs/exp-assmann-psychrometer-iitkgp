@@ -1,0 +1,129 @@
+
+/home/runner/work/exp-assmann-psychrometer-iitkgp/exp-assmann-psychrometer-iitkgp/experiment/simulation/js/jquery-1.7.1.min.js
+  2:820    warning  Empty block statement                                            no-empty
+  2:877    warning  Empty block statement                                            no-empty
+  2:4720   warning  'b' is defined but never used                                    no-unused-vars
+  2:5126   warning  'd' is defined but never used                                    no-unused-vars
+  2:5302   warning  'd' is defined but never used                                    no-unused-vars
+  2:6027   warning  Empty block statement                                            no-empty
+  2:6428   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6523   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6608   warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:6658   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:6697   warning  Unnecessary escape character: \/                                 no-useless-escape
+  2:10196  warning  Empty block statement                                            no-empty
+  2:11255  warning  'ActiveXObject' is not defined                                   no-undef
+  2:14574  warning  'i' is defined but never used                                    no-unused-vars
+  2:16984  warning  'h' is assigned a value but never used                           no-unused-vars
+  2:17279  warning  'm' is defined but never used                                    no-unused-vars
+  2:17312  warning  'r' is assigned a value but never used                           no-unused-vars
+  2:19399  warning  'g' is defined but never used                                    no-unused-vars
+  2:21309  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:21836  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:24565  warning  'c' is assigned a value but never used                           no-unused-vars
+  2:24675  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:25416  warning  Empty block statement                                            no-empty
+  2:26513  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  2:26963  warning  Redundant double negation                                        no-extra-boolean-cast
+  2:31862  warning  Unnecessary escape character: \.                                 no-useless-escape
+  2:31999  warning  Unnecessary escape character: \-                                 no-useless-escape
+  2:32015  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:56     warning  'q' is defined but never used                                    no-unused-vars
+  3:3638   warning  't' is defined but never used                                    no-unused-vars
+  3:7367   warning  'g' is assigned a value but never used                           no-unused-vars
+  3:11980  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12006  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:12031  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:13787  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15016  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:15136  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15177  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15227  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15277  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15341  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15388  warning  Unnecessary escape character: \*                                 no-useless-escape
+  3:15390  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15460  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15473  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15491  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15572  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15609  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:15639  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:15648  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:15650  warning  Unnecessary escape character: \)                                 no-useless-escape
+  3:15970  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:17350  warning  'b' is defined but never used                                    no-unused-vars
+  3:17505  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:20157  warning  'h' is defined but never used                                    no-unused-vars
+  3:20213  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:20288  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  3:20305  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:21442  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:21454  warning  Unnecessary escape character: \(                                 no-useless-escape
+  3:23990  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24003  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:24412  warning  Empty block statement                                            no-empty
+  3:24694  warning  Empty block statement                                            no-empty
+  3:25075  warning  Unnecessary escape character: \=                                 no-useless-escape
+  3:25256  warning  Empty block statement                                            no-empty
+  3:26114  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  3:26509  warning  Unnecessary escape character: \[                                 no-useless-escape
+  3:26511  warning  Unnecessary escape character: \.                                 no-useless-escape
+  3:29597  warning  'd' is defined but never used                                    no-unused-vars
+  3:30269  warning  Unnecessary escape character: \-                                 no-useless-escape
+  3:30271  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5068   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:5076   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:6100   warning  Empty block statement                                            no-empty
+  4:8493   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8505   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8697   warning  Unnecessary escape character: \+                                 no-useless-escape
+  4:8699   warning  Unnecessary escape character: \.                                 no-useless-escape
+  4:8701   warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:8717   warning  Unnecessary escape character: \/                                 no-useless-escape
+  4:9799   warning  'c' is defined but never used                                    no-unused-vars
+  4:11116  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:11178  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:12065  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  4:14424  warning  Unnecessary escape character: \=                                 no-useless-escape
+  4:16789  warning  Empty block statement                                            no-empty
+  4:17420  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:17432  warning  Unnecessary escape character: \-                                 no-useless-escape
+  4:24520  warning  Empty block statement                                            no-empty
+  4:25630  warning  'e' is assigned a value but never used                           no-unused-vars
+  4:28559  warning  'define' is not defined                                          no-undef
+  4:28571  warning  'define' is not defined                                          no-undef
+  4:28590  warning  'define' is not defined                                          no-undef
+
+/home/runner/work/exp-assmann-psychrometer-iitkgp/exp-assmann-psychrometer-iitkgp/experiment/simulation/js/main.js
+    2:1   warning  '$' is not defined                       no-undef
+    3:6   warning  'xx' is assigned a value but never used  no-unused-vars
+    3:11  warning  '$' is not defined                       no-undef
+    6:2   warning  '$' is not defined                       no-undef
+    8:32  warning  '$' is not defined                       no-undef
+    9:32  warning  '$' is not defined                       no-undef
+   10:32  warning  '$' is not defined                       no-undef
+   29:4   warning  '$' is not defined                       no-undef
+   35:4   warning  '$' is not defined                       no-undef
+   39:4   warning  '$' is not defined                       no-undef
+   42:4   warning  '$' is not defined                       no-undef
+   52:4   warning  '$' is not defined                       no-undef
+   60:4   warning  '$' is not defined                       no-undef
+   68:4   warning  '$' is not defined                       no-undef
+   75:4   warning  '$' is not defined                       no-undef
+   84:4   warning  '$' is not defined                       no-undef
+   92:4   warning  '$' is not defined                       no-undef
+  100:4   warning  '$' is not defined                       no-undef
+  108:4   warning  '$' is not defined                       no-undef
+  114:2   warning  '$' is not defined                       no-undef
+  115:3   warning  '$' is not defined                       no-undef
+  116:3   warning  '$' is not defined                       no-undef
+
+/home/runner/work/exp-assmann-psychrometer-iitkgp/exp-assmann-psychrometer-iitkgp/experiment/simulation/js/modernizr-1.5.min.js
+  12:496  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  20:134  warning  Unexpected constant condition                                    no-constant-condition
+  25:51   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+
+✖ 119 problems (0 errors, 119 warnings)
+  0 errors and 3 warnings potentially fixable with the `--fix` option.
+

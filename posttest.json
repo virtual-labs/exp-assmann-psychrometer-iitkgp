@@ -1,0 +1,28 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Enthalpy is deifned by the equation:",
+      "answers": {
+        "a": "H=U-P*V",
+        "b": "H=U+P*V",
+        "c": "H=U/(P*V)",
+        "d": "None"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The dry-bulb temperature is the temperature measured by a regular thermometer exposed to the airstream.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
